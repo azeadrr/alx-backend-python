@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
-"""2-floor"""
+"""floor"""
 
 
 def floor(n: float) -> int:
-    """floor function
+    """function floor
+    takes a float n argument
 
-    Args:
-        n (float): number to floor
-
-    Returns:
-        int: floored number
+    returns floor of float
     """
     return int(n)
