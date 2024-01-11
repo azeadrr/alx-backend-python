@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""to_string"""
+"""to string"""
 
 
 def to_str(n: float) -> str:
     """function to_str
     takes a float n argument
 
-    returns string of float
+    returns the string
     """
-     return str(n)
+    return str(n)
